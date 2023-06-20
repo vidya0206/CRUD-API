@@ -7,7 +7,7 @@ This project implements a CRUD (Create, Read, Update, Delete) API connected to a
 **Requirements**
 
 **Node.js:** Make sure you have Node.js installed on your machine. You can download it from the official Node.js website: https://nodejs.org
-**MongoDB: **Ensure that you have a MongoDB server running or access to a MongoDB database for connection.
+**MongoDB:** Ensure that you have a MongoDB server running or access to a MongoDB database for connection.
 
 **Installation**
 
